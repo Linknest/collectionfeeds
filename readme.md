@@ -9,19 +9,10 @@ Linknest is a simple bookmarking service. Visual bookmarking made simple. (It's 
 
 Example: 
 
-## [Styleguides collection by [urban](https://linknest.cc/urban/)](https://linknest.cc/urban/styleguides/)
+## ⚡[Styleguides collection](https://linknest.cc/urban/styleguides/)
 
-## [Styleguides collection RSS feed](https://linknest.cc/urban/styleguides/rssfeed)
+## ✅[Styleguides collection RSS feed](https://linknest.cc/urban/styleguides/rssfeed)
 
-# Install
-
-Clone repo
-
-```
-git clone https://github.com/organizations/Linknest/collectionfeeds
-```
-
-The activate in wp-admin.
 
 # License
 
