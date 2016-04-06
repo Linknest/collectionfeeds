@@ -96,6 +96,7 @@ function collectionfeeds_output_feed() {
 				<link><?php echo get_permalink($post->ID); ?></link>
 				<description>
 					<?php echo '<![CDATA[<img src="'.$urlbox_image.'" height="600" width="800">]]>'; ?>
+					<?php echo '<![CDATA[<a href="'.$url[0].'">'.$url[0].'</a>>]]>'; ?>
 				</description>
 				<pubDate><?php collectionfeeds_rss_date( strtotime($post->post_date_gmt) ); ?></pubDate>
 				<guid><?php echo get_permalink($post->ID); ?></guid>
