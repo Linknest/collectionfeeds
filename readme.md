@@ -20,12 +20,6 @@ git clone https://github.com/organizations/Linknest/collectionfeeds
 
 The activate in wp-admin.
 
-Composer
-
-```
-$ composer require linknest/collectionfeeds
-```
-
 # License
 
 MIT © [Urban Sanden](https://github.com/urre)
