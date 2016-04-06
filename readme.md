@@ -10,9 +10,9 @@ Select the collections feeds icon to the far right.
 
 Follow collections in your favorite RSS feed reader. I'm a [Feedbin](http://feedbin.com) user.
 
-#### ⚡[Styleguides collection](https://linknest.cc/urban/styleguides/)
+#### ⚡ [Styleguides collection](https://linknest.cc/urban/styleguides/)
 
-#### ✅[Styleguides collection RSS feed](https://linknest.cc/urban/styleguides/rssfeed)
+#### ✅ [Styleguides collection RSS feed](https://linknest.cc/urban/styleguides/rssfeed)
 
 ## Linknest?
 
