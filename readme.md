@@ -2,6 +2,10 @@
 
 A plugin giving the collections on [Linknest](https://linknest.cc) custom RSS feeds. Making it easier to follow them even if you're not using the service. 💪
 
+![styleguides](https://cloud.githubusercontent.com/assets/307676/14327519/f2927f30-fc32-11e5-90b1-2288ae3ff194.jpg)
+
+Select the collections feeds icon to the far right.
+
 ![screenshot from Feedbin](https://cloud.githubusercontent.com/assets/307676/14327113/3c972e16-fc31-11e5-9eba-4b62c9af27b6.png)
 
 
