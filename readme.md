@@ -14,6 +14,15 @@ Follow collections in your favorite RSS feed reader. I'm a [Feedbin](http://feed
 
 #### ✅ [Styleguides collection RSS feed](https://linknest.cc/urban/styleguides/rssfeed)
 
+## Notes and usage
+
+For use on Linknest but I'm sure you can fit this in your project aswell, or just pick pieces you want/like.
+
+Usage:
+
+1. ``composer install``
+2. Install the plugin in wp-admin
+
 ## Linknest?
 
 Linknest is a simple bookmarking service. Visual bookmarking made simple. (It's free [to use](https://linknest.cc/login/?q=/login&action=register))
