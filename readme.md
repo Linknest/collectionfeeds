@@ -16,12 +16,14 @@ Follow collections in your favorite RSS feed reader. I'm a [Feedbin](http://feed
 
 ## Notes and usage
 
-For use on Linknest but I'm sure you can fit this in your project aswell, or just pick pieces you want/like.
+For use on Linknest but I'm sure you can fit this in your project aswell, or just pick pieces you want/like. Linknest is using [https://urlbox.io/](https://urlbox.io/) for the screenshot API.
 
 Usage:
 
 1. ``composer install``
 2. Install the plugin in wp-admin
+
+For using urlbox.io, add ad ``.env`` file in the project root, see the example ``.env-example``.
 
 ## Linknest?
 
