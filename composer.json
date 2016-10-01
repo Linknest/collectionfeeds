@@ -1,0 +1,28 @@
+{
+  "name": "linknest/collectionfeeds",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "A plugin giving the collection on Linknest custom RSS feeds. Making it easier to follow them.",
+  "homepage": "https://github.com/linknest/collectionfeeds",
+  "authors": [
+    {
+      "name": "Urban Sanden",
+      "email": "hej@urre.me",
+      "homepage": "https://github.com/urre"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "collection",
+    "bookmarks",
+    "linknest",
+    "feeds",
+    "rss"
+  ],
+  "support": {
+    "issues": "https://github.com/linknest/collectionfeeds/issues"
+  },
+  "require": {
+      "vlucas/phpdotenv": "^2.2"
+  }
+}
