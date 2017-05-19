@@ -1,7 +1,7 @@
 {
   "name": "linknest/collectionfeeds",
   "type": "wordpress-plugin",
-  "license": "MIT",
+  "license": "GPL",
   "description": "A plugin giving the collection on Linknest custom RSS feeds. Making it easier to follow them.",
   "homepage": "https://github.com/linknest/collectionfeeds",
   "authors": [
@@ -21,8 +21,5 @@
   ],
   "support": {
     "issues": "https://github.com/linknest/collectionfeeds/issues"
-  },
-  "require": {
-      "vlucas/phpdotenv": "^2.2"
   }
 }
