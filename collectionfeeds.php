@@ -2,7 +2,7 @@
 /*
 Plugin Name: Linknest Collection Feeds
 Description: A plugin giving the collection on Linknest custom RSS feeds. Making it easier to follow them.
-Plugin URI: https://linknest.cc
+Plugin URI: https://linknest.com
 Author: Urban Sandén
 Author URI: https://urre.me
 */
@@ -52,7 +52,7 @@ function collectionfeeds_output_feed() {
 	<rss version="2.0">
 		<channel>
 			<title><?php the_title(); ?> on Linknest</title>
-			<link>https://linknest.cc/</link>
+			<link>https://linknest.com/</link>
 			<description>A collection by <?php echo get_the_title($post->post_parent); ?></description>
 			<language>en-us</language>
 			<?php foreach ($posts as $post) :
